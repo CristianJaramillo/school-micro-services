@@ -29,4 +29,11 @@
 		<module>school-micro-services-course</module>
 	</modules>
 
+	<licenses>
+		<license>
+			<name>MIT</name>
+			<distribution>Undefined</distribution>
+		</license>
+	</licenses>
+
 </project>
