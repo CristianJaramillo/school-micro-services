@@ -1,0 +1,5 @@
+mx\jccg\school\micro\services\core\persistence\entities\IWithId.class
+mx\jccg\school\micro\services\core\persistence\entities\Model.class
+mx\jccg\school\micro\services\core\persistence\entities\IWithCreatedAt.class
+mx\jccg\school\micro\services\core\persistence\entities\IModel.class
+mx\jccg\school\micro\services\core\persistence\entities\IWithUpdatedAt.class
